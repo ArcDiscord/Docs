@@ -1,2 +1,6 @@
 # Documentation
-## ⚠ | Work In Progress...
+## Contents
+* Getting Started
+  * How it Works
+  * Commands & Info
+* Privacy Policy & TOS
